@@ -1,6 +1,24 @@
-# gdsc_clickable
+# Body Info App
 
-A new Flutter project.
+A flutter based project for virtual medical analysis.
+
+<h1 align=center> Project Mentors </h1>
+<p align="center">
+<table align="center">
+  <tbody><tr>
+     <td align="center"><a href="https://github.com/FirefoxSRV"><img alt="" src="https://avatars.githubusercontent.com/FirefoxSRV" width="125px;"><br><sub><b> Shreyas Visweshwaran </b></sub></a><br></td> </a>
+      <td align="center"><a href="https://github.com/Sajithrajan03"><img alt="" src="https://avatars.githubusercontent.com/Sajithrajan03" width="125px;"><br><sub><b> Sajith Rajan </b></sub></a><br></td> </a>
+</td>
+
+</tbody></table>
+<!-- <h1 align=center> OUR VALUABLE CONTRIBUTORS✨ </h1>
+<p align="center">
+  
+	
+<a href="https://github.com/GDSCASECBE/bodyInfoApp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GDSCASECBE/bodyInfoApp" />
+</a>
+</p> -->
 
 ## Getting Started
 

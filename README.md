@@ -8,7 +8,7 @@ A flutter based project for virtual medical analysis.
   <tbody><tr>
      <td align="center"><a href="https://github.com/FirefoxSRV"><img alt="" src="https://avatars.githubusercontent.com/FirefoxSRV" width="125px;"><br><sub><b> Shreyas Visweshwaran </b></sub></a><br></td> </a>
       <td align="center"><a href="https://github.com/Sajithrajan03"><img alt="" src="https://avatars.githubusercontent.com/Sajithrajan03" width="125px;"><br><sub><b> Sajith Rajan </b></sub></a><br></td> </a>
-	<td align="center"><a href="https://github.com/pranavsuriya-sr"><img alt="" src="https://avatars.githubusercontent.com/pranavsuriya-sr" width="125px;"><br><sub><b> Sajith Rajan </b></sub></a><br></td> 
+	<td align="center"><a href="https://github.com/pranavsuriya-sr"><img alt="" src="https://avatars.githubusercontent.com/pranavsuriya-sr" width="125px;"><br><sub><b> S R Pranav Suriya </b></sub></a><br></td> 
 </a>
 </td>
 

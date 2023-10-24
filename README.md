@@ -34,3 +34,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+https://github.com/GDSCASECBE/bodyInfoApp/assets/118644815/e1808ac6-0c51-4130-83f0-d4b4c5386b2b
+
+
+
+
+

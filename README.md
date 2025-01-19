@@ -39,5 +39,5 @@ https://github.com/GDSCASECBE/bodyInfoApp/assets/118644815/e1808ac6-0c51-4130-83
 
 
 
-
+Edit : This is deprecated. 
 
